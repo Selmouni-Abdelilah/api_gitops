@@ -7,7 +7,6 @@ spec:
   project: default
   sources:
     - repoURL: https://github.com/Selmouni-Abdelilah/api_gitops.git
-      branch: master
       targetRevision: HEAD
       path: ./
   destination:
